@@ -1,2 +1,2 @@
 # Cases-de-Sucesso
-Relação de cases de sucesso
+Apresentação dos Cases de Sucesso da  minha Carreira como Consultor Empresarial
